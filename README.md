@@ -1,2 +1,2 @@
 # Medmaster-frontend
- University project re
+ University project
